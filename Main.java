@@ -1,5 +1,5 @@
 /*
- * Test the use of the Color method
+ * Test the use of the Color method. Name: Ruohan Xu. Email: rxu275@wisc.edu. CS account username: ruohan.
  */
 import java.util.*;
 

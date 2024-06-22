@@ -1,5 +1,5 @@
 /*
- *	Color class
+ *	Color class. Name: Ruohan Xu. Email: rxu275@wisc.edu. CS account username: ruohan.
  */
 public class Color{
 	private String color;
